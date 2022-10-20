@@ -1,6 +1,6 @@
 {
   "name": "@slm-h5-cli/utils",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "description": "utils",
   "author": "gengbiao <898142408@qq.com>",
   "homepage": "",
@@ -15,5 +15,8 @@
   ],
   "scripts": {
     "test": "node ./__tests__/utils.test.js"
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }
