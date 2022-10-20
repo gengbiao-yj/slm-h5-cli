@@ -1,0 +1,22 @@
+{
+  "name": "@slm-h5-cli/core",
+  "version": "1.0.0",
+  "description": "core",
+  "author": "gengbiao <898142408@qq.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/core.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "node ./__tests__/core.test.js"
+  },
+  "devDependencies": {
+    "@slm-h5-cli/utils": "^0.0.0"
+  }
+}
