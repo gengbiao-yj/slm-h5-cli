@@ -1,8 +1,6 @@
 node_modules/
 .idea
 .vscode
-package-lock.json
-yarn.lock
+
 packages/**/node_modules
-packages/**/package-lock.json
-packages/**/yarn.lock
+lerna-debug.log
